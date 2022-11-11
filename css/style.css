@@ -1084,7 +1084,7 @@ footer .footer-top .row .col .flex .right h3 {
     }
     header {
         padding: 0;
-        height: 175vh;
+        height: 220vh;
     }
     header .header-top {
         flex-direction: column;
@@ -1119,7 +1119,7 @@ footer .footer-top .row .col .flex .right h3 {
     }
     .blog {
         position: absolute;
-        top: 100%;
+        top: 130%;
         left: 50%;
         transform: translate(-50%, -50%);
         animation: transitionIn;
@@ -1420,7 +1420,7 @@ footer .footer-top .row .col .flex .right h3 {
         display: none;
     }
     header {
-        height: 150vh;
+        height: 175vh;
     }
     .blog {
         top: 90%;
